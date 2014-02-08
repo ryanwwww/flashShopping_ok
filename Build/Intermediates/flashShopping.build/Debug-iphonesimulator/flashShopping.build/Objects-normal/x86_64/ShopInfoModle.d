@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/Width/Desktop/备份/flashShopping0113/flashShopping/flashShopping/ShopInfoModle.m \
-  /Users/Width/Desktop/备份/flashShopping0113/flashShopping/flashShopping/ShopInfoModle.h
+  /Users/Width/Desktop/闪购APP/flashShopping/flashShopping/ShopInfoModle.m \
+  /Users/Width/Desktop/闪购APP/flashShopping/flashShopping/ShopInfoModle.h

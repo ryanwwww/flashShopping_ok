@@ -35,7 +35,7 @@
     BaseTableView *testView = [[BaseTableView alloc]initWithFrame:CGRectMake(0, 0, 320, 460) style:UITableViewStylePlain];
     testView.isAddRefresh = YES ;
    
-    //[self.view addSubview:testView];
+    [self.view addSubview:testView];
    
     [NSThread detachNewThreadSelector:@selector(startLoadNet) toTarget:self withObject:nil]; //开启另一个线程来获取网络数据
         

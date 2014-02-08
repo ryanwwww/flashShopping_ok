@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/Width/Desktop/备份/flashShopping0113/flashShopping/flashShopping/TestData.m \
-  /Users/Width/Desktop/备份/flashShopping0113/flashShopping/flashShopping/TestData.h \
-  /Users/Width/Desktop/备份/flashShopping0113/flashShopping/flashShopping/OrderManagerDataModle.h \
-  /Users/Width/Desktop/备份/flashShopping0113/flashShopping/flashShopping/ShopInfoModle.h
+  /Users/Width/Desktop/闪购APP/flashShopping/flashShopping/TestData.m \
+  /Users/Width/Desktop/闪购APP/flashShopping/flashShopping/TestData.h \
+  /Users/Width/Desktop/闪购APP/flashShopping/flashShopping/OrderManagerDataModle.h \
+  /Users/Width/Desktop/闪购APP/flashShopping/flashShopping/ShopInfoModle.h
